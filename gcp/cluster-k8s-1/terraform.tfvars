@@ -1,0 +1,7 @@
+project_id      = "course-dev-01-336202"
+region          = "asia-southeast1"
+cluster_name    = "k8s-geeksops-cluster-01"
+network         = "vpc-geeks-production"
+subnetwork      = "subnet-geeks-k8s-01"
+node_locations  = "asia-southeast1-a"
+master_version  = "1.20.10-gke.2100"

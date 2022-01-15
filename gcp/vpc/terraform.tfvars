@@ -1,0 +1,6 @@
+project_id      = "course-dev-01-336202"
+region          = "asia-southeast1"
+network         = "vpc-geeks-production"
+subnetwork1     = "subnet-geeks-vm-production"
+subnetwork2     = "subnet-geeks-k8s-01"
+subnetwork3     = "subnet-geeks-k8s-02"
